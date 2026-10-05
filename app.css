@@ -12,3 +12,6 @@
 
 .session-row{display:flex;gap:8px;margin-bottom:6px}.session-row select{min-width:0;font:inherit;padding:5px 7px;background:transparent;border:1px solid #ccd0d6;border-radius:4px}.session-row select:first-child{flex:1}.session-hint{font-size:11px;color:#68707b;margin-bottom:6px}[hidden]{display:none!important}
 #harmony-mode{margin-left:auto;width:112px;flex-shrink:0;max-width:112px;font-size:12px}#harmony-note{margin:0 0 4px;line-height:1.4;color:#315bb6}
+
+/* Key picker: compact fifths-order panel for touch screens. */
+.key-row{justify-content:space-between}.key-picker-trigger{display:flex;align-items:center;gap:8px;min-height:36px;padding:3px 8px;border-color:var(--line)}.key-picker-trigger>span{font-size:12px;color:var(--muted)}.key-picker-trigger strong{font:18px ui-monospace,monospace;color:var(--blue)}.key-picker-trigger small{font-size:10px;white-space:nowrap}.picker-dialog{width:calc(100% - 28px);max-width:390px;padding:18px}.picker-dialog .dialog-heading{margin-bottom:14px}.picker-dialog .dialog-heading>div{display:grid;gap:5px}.key-options{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}.key-choice{min-height:54px;padding:6px;font:18px ui-monospace,monospace;border-radius:3px}.key-choice[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:#fff}.key-choice:focus-visible{outline-offset:1px}
