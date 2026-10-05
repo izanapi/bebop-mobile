@@ -1,0 +1,482 @@
+{
+  "phrase": {
+    "seed": 20261005,
+    "version": "bebop-grammar-1.0 / wjazzd-bebop-1.0",
+    "notes": [
+      {
+        "start": 0,
+        "duration": 0.5,
+        "pitch": 72,
+        "role": "guide",
+        "phrase": 1,
+        "triplet": false
+      },
+      {
+        "start": 0.5,
+        "duration": 0.5,
+        "pitch": 71,
+        "role": "step",
+        "phrase": 1,
+        "triplet": false
+      },
+      {
+        "start": 1,
+        "duration": 0.5,
+        "pitch": 69,
+        "role": "step",
+        "phrase": 1,
+        "triplet": false
+      },
+      {
+        "start": 1.5,
+        "duration": 0.5,
+        "pitch": 69,
+        "role": "step",
+        "phrase": 1,
+        "triplet": false
+      },
+      {
+        "start": 2,
+        "duration": 0.3333333333333333,
+        "pitch": 69,
+        "role": "step",
+        "phrase": 1,
+        "triplet": true
+      },
+      {
+        "start": 2.3333333333333335,
+        "duration": 0.3333333333333333,
+        "pitch": 69,
+        "role": "step",
+        "phrase": 1,
+        "triplet": true
+      },
+      {
+        "start": 2.666666666666667,
+        "duration": 0.3333333333333333,
+        "pitch": 71,
+        "role": "step",
+        "phrase": 1,
+        "triplet": true
+      },
+      {
+        "start": 3.0000000000000004,
+        "duration": 0.5,
+        "pitch": 69,
+        "role": "step",
+        "phrase": 1,
+        "triplet": false
+      },
+      {
+        "start": 3.5000000000000004,
+        "duration": 0.5,
+        "pitch": 72,
+        "role": "approach",
+        "phrase": 1,
+        "triplet": false
+      },
+      {
+        "start": 4,
+        "duration": 0.5,
+        "pitch": 71,
+        "role": "resolution",
+        "phrase": 1,
+        "triplet": false
+      },
+      {
+        "start": 4.5,
+        "duration": 0.5,
+        "pitch": 71,
+        "role": "landing",
+        "phrase": 1,
+        "triplet": false
+      },
+      {
+        "start": 5,
+        "duration": 1,
+        "pitch": null,
+        "role": "rest",
+        "phrase": 1
+      },
+      {
+        "start": 6,
+        "duration": 0.5,
+        "pitch": 74,
+        "role": "step",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 6.5,
+        "duration": 0.5,
+        "pitch": 77,
+        "role": "step",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 7,
+        "duration": 0.5,
+        "pitch": 77,
+        "role": "step",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 7.5,
+        "duration": 0.5,
+        "pitch": 76,
+        "role": "step",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 8,
+        "duration": 0.5,
+        "pitch": 76,
+        "role": "guide",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 8.5,
+        "duration": 0.5,
+        "pitch": 77,
+        "role": "step",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 9,
+        "duration": 0.5,
+        "pitch": 78,
+        "role": "enclosure",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 9.5,
+        "duration": 0.5,
+        "pitch": 75,
+        "role": "approach",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 10,
+        "duration": 0.5,
+        "pitch": 76,
+        "role": "resolution",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 10.5,
+        "duration": 0.5,
+        "pitch": 74,
+        "role": "step",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 11,
+        "duration": 0.5,
+        "pitch": 72,
+        "role": "step",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 11.5,
+        "duration": 0.5,
+        "pitch": 74,
+        "role": "step",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 12,
+        "duration": 0.5,
+        "pitch": 69,
+        "role": "guide",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 12.5,
+        "duration": 0.5,
+        "pitch": 72,
+        "role": "step",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 13,
+        "duration": 0.5,
+        "pitch": 69,
+        "role": "step",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 13.5,
+        "duration": 0.5,
+        "pitch": 67,
+        "role": "arpeggio",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 14,
+        "duration": 0.5,
+        "pitch": 66,
+        "role": "enclosure",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 14.5,
+        "duration": 0.5,
+        "pitch": 63,
+        "role": "approach",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 15,
+        "duration": 0.5,
+        "pitch": 64,
+        "role": "resolution",
+        "phrase": 2,
+        "triplet": false
+      },
+      {
+        "start": 15.5,
+        "duration": 0.5,
+        "pitch": null,
+        "role": "rest",
+        "phrase": 2
+      }
+    ],
+    "progression": {
+      "text": "Dm7 | G7 | Cmaj7 | C6 |",
+      "bars": 4,
+      "changes": [
+        {
+          "chord": {
+            "symbol": "Dm7",
+            "root": 2,
+            "suffix": "m7",
+            "bass": 2,
+            "minor": true,
+            "tones": [
+              2,
+              5,
+              9,
+              0
+            ],
+            "scale": [
+              2,
+              4,
+              5,
+              7,
+              9,
+              11,
+              0
+            ],
+            "guides": [
+              5,
+              0
+            ]
+          },
+          "start": 0,
+          "duration": 4,
+          "bar": 0
+        },
+        {
+          "chord": {
+            "symbol": "G7",
+            "root": 7,
+            "suffix": "7",
+            "bass": 7,
+            "minor": false,
+            "tones": [
+              7,
+              11,
+              2,
+              5
+            ],
+            "scale": [
+              7,
+              9,
+              11,
+              0,
+              2,
+              4,
+              5
+            ],
+            "guides": [
+              11,
+              5
+            ]
+          },
+          "start": 4,
+          "duration": 4,
+          "bar": 1
+        },
+        {
+          "chord": {
+            "symbol": "Cmaj7",
+            "root": 0,
+            "suffix": "maj7",
+            "bass": 0,
+            "minor": false,
+            "tones": [
+              0,
+              4,
+              7,
+              11
+            ],
+            "scale": [
+              0,
+              2,
+              4,
+              5,
+              7,
+              9,
+              11
+            ],
+            "guides": [
+              4,
+              11
+            ]
+          },
+          "start": 8,
+          "duration": 4,
+          "bar": 2
+        },
+        {
+          "chord": {
+            "symbol": "C6",
+            "root": 0,
+            "suffix": "6",
+            "bass": 0,
+            "minor": false,
+            "tones": [
+              0,
+              4,
+              7,
+              9
+            ],
+            "scale": [
+              0,
+              2,
+              4,
+              5,
+              7,
+              9,
+              11
+            ],
+            "guides": [
+              4,
+              9
+            ]
+          },
+          "start": 12,
+          "duration": 4,
+          "bar": 3
+        }
+      ]
+    },
+    "bpmAtGeneration": 140,
+    "low": 60,
+    "high": 84
+  },
+  "renders": [
+    {
+      "bpm": 80,
+      "mode": "model",
+      "file": "example-80-model.wav",
+      "peak": 0.28891828656196594,
+      "rms": 0.06579674425826462
+    },
+    {
+      "bpm": 80,
+      "mode": "straight",
+      "file": "example-80-straight.wav",
+      "peak": 0.2921404242515564,
+      "rms": 0.06687103817421881
+    },
+    {
+      "bpm": 80,
+      "mode": "triplet",
+      "file": "example-80-triplet.wav",
+      "peak": 0.28971898555755615,
+      "rms": 0.06566595312715115
+    },
+    {
+      "bpm": 140,
+      "mode": "model",
+      "file": "example-140-model.wav",
+      "peak": 0.28018760681152344,
+      "rms": 0.07614388056964762
+    },
+    {
+      "bpm": 140,
+      "mode": "straight",
+      "file": "example-140-straight.wav",
+      "peak": 0.2895195186138153,
+      "rms": 0.07669091522957577
+    },
+    {
+      "bpm": 140,
+      "mode": "triplet",
+      "file": "example-140-triplet.wav",
+      "peak": 0.30796149373054504,
+      "rms": 0.0763150193389027
+    },
+    {
+      "bpm": 200,
+      "mode": "model",
+      "file": "example-200-model.wav",
+      "peak": 0.3059495687484741,
+      "rms": 0.08030914453259505
+    },
+    {
+      "bpm": 200,
+      "mode": "straight",
+      "file": "example-200-straight.wav",
+      "peak": 0.3320178687572479,
+      "rms": 0.08212655212509577
+    },
+    {
+      "bpm": 200,
+      "mode": "triplet",
+      "file": "example-200-triplet.wav",
+      "peak": 0.3320949971675873,
+      "rms": 0.08133166079902875
+    },
+    {
+      "bpm": 280,
+      "mode": "model",
+      "file": "example-280-model.wav",
+      "peak": 0.3450899124145508,
+      "rms": 0.08379855153283991
+    },
+    {
+      "bpm": 280,
+      "mode": "straight",
+      "file": "example-280-straight.wav",
+      "peak": 0.3202313184738159,
+      "rms": 0.08526037593898347
+    },
+    {
+      "bpm": 280,
+      "mode": "triplet",
+      "file": "example-280-triplet.wav",
+      "peak": 0.3300078511238098,
+      "rms": 0.08486776969279845
+    }
+  ],
+  "subjectiveAssessment": "Not evaluated by a human jazz musician; these are reproducible listening comparisons, not evidence of perceptual improvement."
+}

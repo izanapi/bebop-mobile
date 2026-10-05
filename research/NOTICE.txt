@@ -1,0 +1,13 @@
+Contains information from the Weimar Jazz Database (WJazzD), The Jazzomat Research Project (c) 2012–2017.
+Source: https://jazzomat.hfm-weimar.de/download/download.html
+Database release 2.1, schema 2.2.
+The source database and the derived model.json, analysis.json, evaluation.json are made available under the Open Database License (ODbL) 1.0:
+https://opendatacommons.org/licenses/odbl/1-0/
+Rights in individual source database contents: Database Contents License (DbCL) 1.0:
+https://opendatacommons.org/licenses/dbcl/1-0/
+Reproduction method: analyze.py (downloadable alongside this notice).
+The full derived database is analysis.json; the application subset is model.json. Neither contains complete source melodies or recordings.
+Please cite: Pfleiderer, Martin; Frieler, Klaus; Abeßer, Jakob; Zaddach, Wolf-Georg; Burkhart, Benjamin (eds.). Inside the Jazzomat – New Perspectives for Jazz Research. Schott Campus, 2017.
+Original application code: MIT (see root LICENSE).
+
+2026-10-05: evaluation-v24.json referenceWindows, bySolo, soloBalanced and related corpus aggregates are WJazzD-derived data under ODbL 1.0. Reproduction: research/audit_reference.py and research/evaluate_v24.ts. Local note-level extraction is not distributed.
